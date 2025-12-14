@@ -1,0 +1,7 @@
+{
+  "name": "Alle - Fluência Real",
+  "description": "Plataforma premium de ensino de idiomas focada em fluência real, personalização e acompanhamento humano.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
